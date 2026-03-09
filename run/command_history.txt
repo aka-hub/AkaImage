@@ -1,0 +1,50 @@
+/img show frame1 img1
+/img register img1 https://i.imgur.com/xEdtYaT.png
+/img show frame1 img1
+/img bind frame1
+/img show frame1 img1
+/img bind frame1
+/img register img1 https://i.imgur.com/xEdtYaT.png
+/img show frame1 img1
+/img register testlogo https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png
+/img show frame1 testlogo
+/img show frame1 testlogo1
+/img bind frame2
+/img show frame2 testlogo
+/time set 0
+/img bind frame1
+/img register testimg1 https://i.imgur.com/xEdtYaT.png
+/img show frame1 testimg1
+/img size frame1 10
+/img size frame1 10 1-
+/img size frame1 10 10
+/img bind frame1
+/img show frame1 testimg1
+/img register testimg1 https://i.imgur.com/xEdtYaT.png
+/img show frame1 testimg1
+/img size frame1 3 3
+/img size frame1 2 2
+/img size frame1 3 2
+/img bind frame1
+/img size frame1 3 2
+/img register testimg1 https://i.imgur.com/xEdtYaT.png
+/img show frame1 testimg1
+/img size frame1 4 3
+/img show frame1 testimg1
+/time set 0
+/img bind frame1
+/img register test1 https://i.imgur.com/5uRWyCc.jpeg
+/img register test2 https://i.imgur.com/c0mk8Ee.jpeg
+/img size 4 3
+/img size frame1 4 3
+/img show frame1 test1
+/img bind frame1
+/img size frame1 4 3
+/img register test1 https://i.imgur.com/5uRWyCc.jpeg
+/img show frame1 test1
+/img register test1 https://i.imgur.com/LjUTr6c.png
+/img show frame1 test1
+/img register test2 https://i.imgur.com/HI0qkxF.png
+/img show frame1 test2
+/img show frame1 test1
+/img show frame1 test2

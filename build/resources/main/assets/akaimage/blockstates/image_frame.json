@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "akaimage:block/image_frame" }
+  }
+}
