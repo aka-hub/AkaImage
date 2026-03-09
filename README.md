@@ -9,7 +9,7 @@
 
 - Minecraft 1.21.1
 - NeoForge
-- [AkaCore]((https://github.com/aka-hub/AkaCore)
+- [AkaCore](https://github.com/aka-hub/AkaCore)
 
 ---
 
